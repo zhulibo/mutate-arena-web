@@ -45,12 +45,12 @@ let equipments = ref([
       <table class="table">
         <thead>
         <tr>
-          <th>name</th>
-          <th>damage</th>
-          <th>fire rate</th>
-          <th>ammo</th>
-          <th>reload time</th>
-          <th>move speed</th>
+          <th>Name</th>
+          <th>Damage</th>
+          <th>Fire Rate</th>
+          <th>Reload Time</th>
+          <th>Ammo</th>
+          <th>Move Speed</th>
         </tr>
         </thead>
         <tbody>
@@ -58,8 +58,8 @@ let equipments = ref([
           <td>{{ equipment.name }}</td>
           <td>{{ equipment.damage }}</td>
           <td>{{ equipment.fireRate }}</td>
-          <td>{{ equipment.ammo }}</td>
           <td>{{ equipment.reloadTime }}</td>
+          <td>{{ equipment.ammo }}</td>
           <td>{{ equipment.moveSpeed }}</td>
         </tr>
         </tbody>

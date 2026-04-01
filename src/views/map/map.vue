@@ -4,23 +4,23 @@
 <template>
   <div class="wrapper">
     <div class="map">
-      <div class="item item-dust">
-        <div class="map-name">{{ $t('map.dust') }}</div>
-      </div>
       <div class="item item-farm">
-        <div class="map-name">{{ $t('map.farm') }}</div>
+        <div class="map-name">{{ $t('map.Farm') }}</div>
+      </div>
+      <div class="item item-dust">
+        <div class="map-name">{{ $t('map.Dust') }}</div>
       </div>
       <div class="item item-playground">
-        <div class="map-name">{{ $t('map.playground') }}</div>
+        <div class="map-name">{{ $t('map.Playground') }}</div>
       </div>
       <div class="item item-crossroads">
-        <div class="map-name">{{ $t('map.crossroads') }}</div>
+        <div class="map-name">{{ $t('map.Crossroads') }}</div>
       </div>
       <div class="item item-arena">
-        <div class="map-name">{{ $t('map.arena') }}</div>
+        <div class="map-name">{{ $t('map.Arena') }}</div>
       </div>
       <div class="item item-trainingGround">
-        <div class="map-name">{{ $t('map.trainingGround') }}</div>
+        <div class="map-name">{{ $t('map.TrainingGround') }}</div>
       </div>
     </div>
   </div>
@@ -53,10 +53,10 @@
       text-shadow: rgba(0,0,0,0.8) 0 0 5px;
     }
   }
-  .item-dust{
+  .item-farm{
     background: rgba(0,0,0,.7) url("@/assets/img/bg.png") center center / cover no-repeat;
   }
-  .item-farm{
+  .item-dust{
     background: rgba(0,0,0,.7) url("@/assets/img/bg.png") center center / cover no-repeat;
   }
   .item-playground{

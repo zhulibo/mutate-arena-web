@@ -2,10 +2,15 @@
 import {ref} from "vue";
 
 let mutants = ref([
-  { name: 'tank', attribute: '', skill: '', CD: '', damage: '', health: '' },
-  { name: 'ghost', attribute: '', skill: '', CD: '', damage: '', health: '' },
-  { name: 'smoker', attribute: '', skill: '', CD: '', damage: '', health: '' },
-  { name: 'cutter', attribute: '', skill: '', CD: '', damage: '', health: '' },
+  { name: 'Tank', attribute: '', skill: '', CD: '', damage: '', health: '' },
+  { name: 'Ghost', attribute: '', skill: '', CD: '', damage: '', health: '' },
+  { name: 'Smoker', attribute: '', skill: '', CD: '', damage: '', health: '' },
+  { name: 'Cutter', attribute: '', skill: '', CD: '', damage: '', health: '' },
+  { name: 'Cook', attribute: '', skill: '', CD: '', damage: '', health: '' },
+  { name: 'Echo', attribute: '', skill: '', CD: '', damage: '', health: '' },
+  { name: 'Generator', attribute: '', skill: '', CD: '', damage: '', health: '' },
+  { name: 'CorpseDriver', attribute: '', skill: '', CD: '', damage: '', health: '' },
+  { name: 'Venom', attribute: '', skill: '', CD: '', damage: '', health: '' },
 ]);
 </script>
 
@@ -15,12 +20,12 @@ let mutants = ref([
       <table class="table">
         <thead>
         <tr>
-          <th>name</th>
-          <th>attribute</th>
-          <th>skill</th>
+          <th>Name</th>
+          <th>Attribute</th>
+          <th>Skill</th>
           <th>CD</th>
-          <th>damage</th>
-          <th>health</th>
+          <th>Damage</th>
+          <th>Health</th>
         </tr>
         </thead>
         <tbody>
