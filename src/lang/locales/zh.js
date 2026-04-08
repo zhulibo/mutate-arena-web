@@ -29,12 +29,11 @@ export default {
     solider: '士兵',
   },
   map: {
-    dust: '沙漠',
-    farm: '农场',
-    playground: '游乐场',
-    crossroads: '十字路口',
-    arena: '竞技场',
-    trainingGround: '训练场',
+    RoseManor: '蔷薇庄园',
+    Playground: '游乐场',
+    Crossroads: '十字路口',
+    Arena: '竞技场',
+    TrainingGround: '训练场',
   },
   info: {
     s1_title: '什么是突变模式？',

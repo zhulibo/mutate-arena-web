@@ -4,22 +4,19 @@
 <template>
   <div class="wrapper">
     <div class="map">
-      <div class="item item-farm">
-        <div class="map-name">{{ $t('map.Farm') }}</div>
+      <div class="item item-RoseManor">
+        <div class="map-name">{{ $t('map.RoseManor') }}</div>
       </div>
-      <div class="item item-dust">
-        <div class="map-name">{{ $t('map.Dust') }}</div>
-      </div>
-      <div class="item item-playground">
+      <div class="item item-Playground">
         <div class="map-name">{{ $t('map.Playground') }}</div>
       </div>
-      <div class="item item-crossroads">
+      <div class="item item-Crossroads">
         <div class="map-name">{{ $t('map.Crossroads') }}</div>
       </div>
-      <div class="item item-arena">
+      <div class="item item-Arena">
         <div class="map-name">{{ $t('map.Arena') }}</div>
       </div>
-      <div class="item item-trainingGround">
+      <div class="item item-TrainingGround">
         <div class="map-name">{{ $t('map.TrainingGround') }}</div>
       </div>
     </div>
@@ -53,22 +50,19 @@
       text-shadow: rgba(0,0,0,0.8) 0 0 5px;
     }
   }
-  .item-farm{
+  .item-RoseManor{
     background: rgba(0,0,0,.7) url("@/assets/img/bg.png") center center / cover no-repeat;
   }
-  .item-dust{
+  .item-Playground{
     background: rgba(0,0,0,.7) url("@/assets/img/bg.png") center center / cover no-repeat;
   }
-  .item-playground{
+  .item-Crossroads{
     background: rgba(0,0,0,.7) url("@/assets/img/bg.png") center center / cover no-repeat;
   }
-  .item-crossroads{
+  .item-Arena{
     background: rgba(0,0,0,.7) url("@/assets/img/bg.png") center center / cover no-repeat;
   }
-  .item-arena{
-    background: rgba(0,0,0,.7) url("@/assets/img/bg.png") center center / cover no-repeat;
-  }
-  .item-trainingGround{
+  .item-TrainingGround{
     background: rgba(0,0,0,.7) url("@/assets/img/bg.png") center center / cover no-repeat;
   }
 }

@@ -28,8 +28,7 @@ export default {
     solider: 'Solider',
   },
   map: {
-    Farm: 'Farm',
-    Dust: 'Dust',
+    RoseManor: 'Rose Manor',
     Playground: 'Playground',
     Crossroads: 'Crossroads',
     Arena: 'Arena',
