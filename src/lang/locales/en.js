@@ -28,9 +28,9 @@ export default {
     solider: 'Solider',
   },
   map: {
-    RoseManor: 'Rose Manor',
+    ConstructionSite: 'Construction Site',
     Playground: 'Playground',
-    Crossroads: 'Crossroads',
+    RoseManor: 'Rose Manor',
     Arena: 'Arena',
     TrainingGround: 'Training Ground',
   },
