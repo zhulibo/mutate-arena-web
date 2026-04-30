@@ -31,7 +31,6 @@ export default {
   map: {
     ConstructionSite: '建筑工地',
     Playground: '游乐场',
-    RoseManor: '蔷薇庄园',
     Arena: '竞技场',
     TrainingGround: '训练场',
   },

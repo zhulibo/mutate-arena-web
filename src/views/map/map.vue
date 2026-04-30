@@ -10,9 +10,6 @@
       <div class="item item-Playground">
         <div class="map-name">{{ $t('map.Playground') }}</div>
       </div>
-      <div class="item item-RoseManor">
-        <div class="map-name">{{ $t('map.RoseManor') }}</div>
-      </div>
       <div class="item item-Arena">
         <div class="map-name">{{ $t('map.Arena') }}</div>
       </div>
@@ -49,9 +46,6 @@
       color: rgba(255,255,255,0.8);
       text-shadow: rgba(0,0,0,0.8) 0 0 5px;
     }
-  }
-  .item-RoseManor{
-    background: rgba(0,0,0,.7) url("@/assets/img/bg.png") center center / cover no-repeat;
   }
   .item-Playground{
     background: rgba(0,0,0,.7) url("@/assets/img/bg.png") center center / cover no-repeat;

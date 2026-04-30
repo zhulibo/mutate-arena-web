@@ -30,7 +30,6 @@ export default {
   map: {
     ConstructionSite: 'Construction Site',
     Playground: 'Playground',
-    RoseManor: 'Rose Manor',
     Arena: 'Arena',
     TrainingGround: 'Training Ground',
   },
