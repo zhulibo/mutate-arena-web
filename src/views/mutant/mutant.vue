@@ -5,12 +5,12 @@ let mutants = ref([
   { name: 'Tank', attribute: '', skill: '', CD: '', damage: '', health: '' },
   { name: 'Ghost', attribute: '', skill: '', CD: '', damage: '', health: '' },
   { name: 'Smoker', attribute: '', skill: '', CD: '', damage: '', health: '' },
-  { name: 'Cutter', attribute: '', skill: '', CD: '', damage: '', health: '' },
-  { name: 'CorpseDriver', attribute: '', skill: '', CD: '', damage: '', health: '' },
+  { name: 'Reaper', attribute: '', skill: '', CD: '', damage: '', health: '' },
+  { name: 'Boomer', attribute: '', skill: '', CD: '', damage: '', health: '' },
   { name: 'Cook', attribute: '', skill: '', CD: '', damage: '', health: '' },
-  { name: 'Echo', attribute: '', skill: '', CD: '', damage: '', health: '' },
+  { name: 'Caller', attribute: '', skill: '', CD: '', damage: '', health: '' },
+  { name: 'Clicker', attribute: '', skill: '', CD: '', damage: '', health: '' },
   { name: 'Generator', attribute: '', skill: '', CD: '', damage: '', health: '' },
-  { name: 'Venom', attribute: '', skill: '', CD: '', damage: '', health: '' },
 ]);
 </script>
 

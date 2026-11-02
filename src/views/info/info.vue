@@ -20,7 +20,6 @@
 
       <h3>{{ $t('info.s4_title') }}</h3>
       <p>{{ $t('info.s4_content_p1') }}</p>
-      <p>{{ $t('info.s4_content_p2') }}</p>
     </div>
   </div>
 </template>

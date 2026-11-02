@@ -17,12 +17,12 @@ export default {
     Tank: 'Tank',
     Ghost: 'Ghost',
     Smoker: 'Smoker',
-    Cutter: 'Cutter',
+    Reaper: 'Cutter',
+    Boomer: 'Boomer',
     Cook: 'Cook',
-    Echo: 'Echo',
+    Caller: 'Caller',
+    Clicker: 'Clicker',
     Generator: 'Generator',
-    CorpseDriver: 'Corpse Driver',
-    Venom: 'Venom',
   },
   human: {
     solider: 'Solider',
@@ -55,9 +55,7 @@ export default {
       'The base game is free-to-play. While there are in-app purchases, we will not sell stats, nor will we allow paying to quickly unlock items, as we consider that a form of implicit pay-to-win.',
     s4_title: 'What is the game\'s worldview?',
     s4_content_p1:
-      'The worldview is not currently reflected in the game. Our current development focus is on gameplay mechanics; the lore will be fleshed out once the game operations are stable.',
-    s4_content_p2:
-      'In the near future, science has made great strides, and people generally believe in civilization accelerationism. However, humanity remains unable to break out of the Solar System, which has begun to feel like a cage. Gradually, anxiety bred adventurous ideas. A faction of humanity launched massive seeding ships into the cosmos. Carrying DNA, information archives, and robots, they drift into the vast universe like dandelion seeds...'
+      'unknown',
   },
   privacy: {
     title: 'Privacy Policy',
