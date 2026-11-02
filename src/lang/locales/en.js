@@ -17,7 +17,7 @@ export default {
     Tank: 'Tank',
     Ghost: 'Ghost',
     Smoker: 'Smoker',
-    Reaper: 'Cutter',
+    Reaper: 'Reaper',
     Boomer: 'Boomer',
     Cook: 'Cook',
     Caller: 'Caller',
